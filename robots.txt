@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://volcaneum.com/sitemap.xml
